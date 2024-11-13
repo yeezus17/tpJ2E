@@ -1,0 +1,10 @@
+spring.application.name=tpj2e
+
+spring.h2.console.enabled=true
+spring.datasource.username=admin
+spring.datasource.password=123
+server.port=8080
+spring.cloud.config.cloud=false
+eureka.client.enabled=false
+
+
